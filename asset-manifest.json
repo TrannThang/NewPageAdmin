@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NewPageAdmin/static/css/main.a6a07bb5.css",
+    "main.js": "/NewPageAdmin/static/js/main.d2bde743.js",
+    "static/js/787.657e227b.chunk.js": "/NewPageAdmin/static/js/787.657e227b.chunk.js",
+    "static/media/zing.JPG": "/NewPageAdmin/static/media/zing.0fd568dbfa088f764bd4.JPG",
+    "index.html": "/NewPageAdmin/index.html",
+    "main.a6a07bb5.css.map": "/NewPageAdmin/static/css/main.a6a07bb5.css.map",
+    "main.d2bde743.js.map": "/NewPageAdmin/static/js/main.d2bde743.js.map",
+    "787.657e227b.chunk.js.map": "/NewPageAdmin/static/js/787.657e227b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6a07bb5.css",
+    "static/js/main.d2bde743.js"
+  ]
+}
