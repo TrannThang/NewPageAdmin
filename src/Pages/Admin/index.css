@@ -1,0 +1,22 @@
+.header-admin-page {
+    background-color: rgb(75, 184, 184);
+    display: flex;
+}
+.img-table {
+    width: 12%;
+}
+
+.switch-show {
+    background-color: #91a1ff !important;
+}
+
+
+
+@keyframes shine {
+    0% {
+      background-position-x: -600%;
+    }
+    100% {
+      background-position-x: 600%;
+    }
+}

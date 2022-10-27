@@ -1,0 +1,11 @@
+export { default as Home } from "./Home";
+export { default as About } from "./About";
+export { default as Contact } from "./Contact";
+export { default as ErrPage } from "./ErrPage";
+export { default as Login } from "./Login";
+export { default as Logout } from "./Logout";
+export { default as Admin } from "./Admin";
+// export { default as AdminPage } from "./Admin/AdminPage";
+export { default as Book } from "./Book";
+export { default as TitleHome } from "./Title/TitleHome";
+export { default as TitleBook } from "./Title/TitleBook";

@@ -1,0 +1,75 @@
+.header-pd {
+    padding: 0 400px;
+    border-bottom: 1px solid #4f4b4d;
+    background-image: linear-gradient(100deg, #adff76, #846144);
+}
+.logo {
+    width: 88%;
+    top: 10px;
+}
+.logo-header {
+    display: block;
+    width: 15%;
+}
+.logo-header span {
+    font-size: 12px;
+    font-weight: 500;
+    color: black;
+}
+.header-menu li span {
+    font-size: 14px;
+    font-weight: 700;
+    color: black;
+}
+.header-menu li span:hover{
+    color: #71f2c5;
+    border-bottom: 2px solid #71f2c5;
+}
+.logout-css {
+    display: flex;
+    font-size: 20px;
+}
+.logout-css img {
+    width: 30px;
+}
+.logout-css span {
+    color: black;
+    margin-left: -14px;
+}
+.book{
+    font-size: 20px;
+    color: rgb(0, 140, 255);
+    margin-right: 20px;
+    margin-left: 50px;
+}
+.bg-h1{
+    margin-right: 50px;
+    margin-left: -10px;
+}
+.btn-logout{
+    color: white;
+    background-color:#579aff;
+    border-radius: 20px;
+    padding: 10px 20px;
+}
+@media only screen and (max-width: 719px) {
+    .bg-h1 {
+        padding: 0;
+        margin: 0 auto;
+    }
+    .nav-link:nth-child(1){
+        display: none;
+    }
+    .book{
+        font-size: 20px;
+        color: rgb(0, 140, 255);
+        margin-right: 7px;
+        margin-left: 130px;
+    }
+    .nav-link:nth-child(2) .btn-logout{
+         padding: 0;
+         background-color: white;
+    }
+
+  }
+
